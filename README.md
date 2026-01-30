@@ -11,3 +11,11 @@ Using full-scale 3D particle-in-cell simulations we show that the radiation reac
 
 
 Author of notebook: Óscar Amaro
+
+-----
+
+CRR factor
+
+$$c_{rr} \equiv \dfrac{\eta}{3} \dfrac{e^2}{4 \pi \epsilon_0 ~m c^2} ~\omega_0[s-1]^2/c ~ \tau[s]$$
+
+$\eta = 0.375$ for the $\sin^2$ envelope and all other quantities in SI
