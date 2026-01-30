@@ -16,6 +16,6 @@ Author of notebook: Óscar Amaro
 
 CRR factor
 
-$$c_{rr} \equiv (1 - \cos \theta)^{2} \dfrac{\eta}{3} \dfrac{e^2}{4 \pi \epsilon_0 ~m c^3} ~\omega_0[s-1]^2 ~ \tau[s]$$
+$$c_{rr} \equiv (1 - \cos \theta)^{2} \dfrac{\eta}{3} \dfrac{e^2}{4 \pi \epsilon_0 ~m c^3} ~\omega_0[s^{-1}]^2 ~ \tau[s]$$
 
 $\eta = 0.375$ for the $\sin^2$ envelope and all other quantities in SI
